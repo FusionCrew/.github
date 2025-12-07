@@ -65,7 +65,7 @@
 <summary><b>📌 1차 발표</b></summary>
 <br>
 
-- 📄 [1차 발표 PPT (PDF)](./presentations/1차발표_15팀.pdf)
+- 📄 [1차 발표 PPT (PDF)](../presentations/1차발표_15팀.pdf)
 
 </details>
 
