@@ -31,7 +31,7 @@
 | 분야 | 기술 |
 |------|------|
 | **Frontend** | React 19, TypeScript, Vite, TailwindCSS |
-| **Backend** | Java 21, Spring Boot 3.2, Gradle |
+| **Backend** | Java 17, Spring Boot 3.2, Gradle |
 | **AI Server** | Python 3.11, FastAPI, OpenAI API |
 | **AI/ML** | MediaPipe (Face/Pose Detection), Speech Recognition |
 
